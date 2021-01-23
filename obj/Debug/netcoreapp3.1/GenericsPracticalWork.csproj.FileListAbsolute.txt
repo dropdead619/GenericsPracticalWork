@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\bin\Debug\netcoreapp3.1\GenericsPracticalWork.exe
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\bin\Debug\netcoreapp3.1\GenericsPracticalWork.deps.json
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\bin\Debug\netcoreapp3.1\GenericsPracticalWork.runtimeconfig.json
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\bin\Debug\netcoreapp3.1\GenericsPracticalWork.runtimeconfig.dev.json
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\bin\Debug\netcoreapp3.1\GenericsPracticalWork.dll
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\bin\Debug\netcoreapp3.1\GenericsPracticalWork.pdb
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.AssemblyInfo.cs
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.dll
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.pdb
+C:\Users\User\source\repos\GenericsPracticalWork\GenericsPracticalWork\obj\Debug\netcoreapp3.1\GenericsPracticalWork.genruntimeconfig.cache
